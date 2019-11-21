@@ -1,7 +1,6 @@
 {
   "name": "team-apicrud0",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -18,5 +17,14 @@
     "start": "node server.js"
   },
   "author": "sadi",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashahmad/json-crud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akashahmad/json-crud/issues"
+  },
+  "homepage": "https://github.com/akashahmad/json-crud#readme",
+  "description": ""
 }
