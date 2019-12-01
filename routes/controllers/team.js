@@ -81,6 +81,7 @@ const Controllerteam = {
 
 
 
+
     delete: async (req, res) => {
         console.log("params", req.params.id)
         const file = './routes/controllers/data.json'
