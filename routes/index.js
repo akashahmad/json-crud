@@ -17,4 +17,5 @@ exports = module.exports = function (app) {
      app.delete('/api/team/:id', team.delete);
      app.post('/api/phoneVerification', team.numberValidation);
      app.post('/api/login', team.login);
+     app.post('/api/signUp', team.signUp);
 };
